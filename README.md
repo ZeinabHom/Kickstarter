@@ -1,6 +1,5 @@
-# Theater Projects Analyze!
 
-## *Based on Launch date & # Based on Goal*
+# *Based on Launch date & Based on Goal*
 
 ### Based on Launch date!
 All theater projects categorize in 3 categories; Successful, failed & canceled. The data shows that number of successful, failed and canceled projects in each month. the table shows that 54% projects are successful, %38 of projects are failed and about %9 of projects are canceled. Moreover, it shows that May has the maximum number of successful projects and Dec has the minimum number of successful projects as well as there are he Minimum number of failed projects in Jan, Jun, July & Oct. Furthermore, The number of canceled projects has steady trend and is less that 50.
