@@ -7,9 +7,14 @@ All theater projects categorize in 3 categories; Successful, failed & canceled. 
 ### Based on Goal!
 All theater projects- sub category Plays- categorize based on their Goal in 12 categories. Data shows that the number of successful, failed and canceled projects in each category and also total project in each category is calculated.The maximum percent of successful projects has a goal less than $1000 and then they have a goal between $1000 to $5000 and then between $35000 to $50,000. Morover,The maximum percenmtage of failed project (%100) is in $45,000 to $50,000 category and %85 of  projects have goal less than $10,000.Furthermore, The table shows that the maximum number of projects is 534 that the goal is between $1000-$9999. The minimum number of projects is one that is in $45,000-$49999 category.
 
+![1](https://user-images.githubusercontent.com/91231253/158072744-91c098ae-76de-4080-a1f3-7fb0431cc269.png)
+
+
 ### It is interesting to note that!
 there are some limitation in this analysise as follows;
 we calculate the percentage based on the number of projects in each category, for more details it is better to analyze percentage based on number of total project and also goal is approved budget for each project and it is very important to categorize projects based on their cost. Moreover, in this analysis one of the important factors is country and we can have a wonderful resualt by categorizing progect based on country as well.
+
+![2](https://user-images.githubusercontent.com/91231253/158072752-62c2d214-4541-4a58-9380-75f9d55bcdce.png)
 
 ### By conclusion! 
 the number of Maximum successful project is in May and Minimum sucessfull project is in December and the maximum percentage of successful project is less than $1,000 and the minimum percentage of successful project is between $45,000 and $49,999.
